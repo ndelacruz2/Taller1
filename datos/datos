@@ -1,0 +1,13 @@
+tipo:pez:4000:1000.0
+tipo:gato:3000:1000.0
+tipo:conejo:5000:1000.0
+tipo:Perro:2000:1000.0
+surtidor:Pilar:pez:0.0:gato:0.0:conejo:0.0:Perro:0.0
+surtidor:Dilan:pez:0.0:gato:0.0:conejo:0.0:Perro:0.0
+surtidor:Nikol:pez:0.0:gato:0.0:conejo:0.0:Perro:0.0
+surtidor:Richard:pez:0.0:gato:0.0:conejo:0.0:Perro:0.0
+empleado:Dilia:0
+empleado:Nikol:0
+empleado:Richard:0
+empleado:Dilan:0
+empleado:Pilar:0
